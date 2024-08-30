@@ -5,7 +5,7 @@ function Cabecalho() {
 
 
     <div className="Cabecalho-container">
-      <h1>treinar dragão</h1>
+      <h1>Treinar Dragão</h1>
 
 
     </div>

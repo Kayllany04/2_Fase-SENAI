@@ -1,4 +1,5 @@
 .Cabecalho-container{
 
-  background-color: red;  
+  background-color: var(--cor-1);  
+  color: var();
 }
