@@ -1,0 +1,17 @@
+.kk{
+
+    /* coloca borda */
+    border: 1px dotted rgb(0, 0, 0); 
+    
+    /* da espaçamento entre o elemento que esta dentro */
+     padding: 20px; 
+    
+    /* Aredonda a borda */
+     border-radius: 10px; 
+    
+     /* Tem a mesma função do pedding so que fora do elemento */
+     margin: 10px;
+    
+     /* Coloca uma sombra nas borda ´ra da um efeito legalzinho😊 */
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
