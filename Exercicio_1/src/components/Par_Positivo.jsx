@@ -1,5 +1,5 @@
-import React from 'react'
-import Numeros from './Numeros'
+import { useState } from "react" 
+import './Par_Positivo.css'
 // Dois copos meio cheios: Faça um programa para ler um número e 
 // imprimir uma mensagem dizendo se o mesmo é par e positivo ao mesmo 
 // tempo.
@@ -25,8 +25,8 @@ function Par_Positivo() {
     }
 
   return (
-    <div>
-       <h2>Verificando os numeros:</h2>
+    <div className="Positivo-containe">
+       <h2>Verificando os numeros par e positivo:</h2>
 
  <button onClick={ verificarndo}>Verificar</button>
 

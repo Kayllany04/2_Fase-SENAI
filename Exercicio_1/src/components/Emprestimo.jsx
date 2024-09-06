@@ -1,6 +1,6 @@
-import {us}
-
-function salario() {
+import { useState } from "react"
+import "./Emprestimo.css"
+function Emprestimo(){
 
     const[resultado, setResultado] = useState()
 
@@ -25,9 +25,9 @@ function salario() {
   return (
 
     
-    <div className='kk'>
+    <div className='kk-containe'>
       
-      <h2>Infome seu salario e o valor do emprestimo</h2>
+      <h2>💸Infome seu salario e o valor do emprestimo💰</h2>
      <button onClick={verificar}>verificar</button>
     
     resultado:{resultado}
@@ -35,4 +35,4 @@ function salario() {
   )
 }
 
-export default salario
+export default Emprestimo

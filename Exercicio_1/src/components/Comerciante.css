@@ -1,4 +1,4 @@
-.Positivo-containe{
+.kk-containe{
 
     /* coloca borda */
     border: 1px dotted rgb(0, 0, 0); 
@@ -12,6 +12,6 @@
      /* Tem a mesma função do pedding so que fora do elemento */
      margin: 10px;
     
-     /* Coloca uma sombra nas borda ´ra da um efeito legalzinho😊 */
+     /* Coloca uma sombra nas bordar da um efeito legalzinho😊 */
      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     }

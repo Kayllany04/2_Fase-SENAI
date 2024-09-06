@@ -29,7 +29,7 @@ function verificarndo(){
   return (
     <div className="Numero-containe">
       
-    <h2>Verificando os numeros:</h2>
+    <h2>🎰Verificando os numeros:🎰</h2>
 
     <button onClick={ verificarndo}>Verificar</button>
 
